@@ -1,0 +1,25 @@
+num === 001
+name === 张三
+age === 16
+sex === 男
+name === 李四
+major === Java
+age === 66
+-----------Student-------------
+num === 001
+name === 张三
+age === 16
+sex === 男
+-----------Teacher-------------
+name === 李四
+major === Java
+age === 66
+-----------Student-------------
+num === 001
+name === 张三
+age === 16
+sex === 男
+-----------Teacher-------------
+name === 李四
+major === Java
+age === 66
